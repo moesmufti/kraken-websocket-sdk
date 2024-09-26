@@ -8,7 +8,7 @@ from kraken_ws import (
     subscribe_to_instruments,
 )
 from kraken_ws.models.kraken_ticker import TickerData, Ticker
-from config import setup_logging
+from kraken_ws.config.logging_config import setup_logging
 
 # Set up logging
 setup_logging(level=logging.INFO)

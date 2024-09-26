@@ -138,6 +138,15 @@ if __name__ == "__main__":
     ))
 ```
 
+Logging
+If you would like to use a preset logger that works with all the python logging statements, you can use the `kraken_ws.config.logging_config` module:
+
+```python
+import logging
+from kraken_ws.config.logging_config import setup_logging
+setup_logging(level=logging.INFO)
+```
+
 ## Example
 An example script demonstrating how to use the Kraken WebSocket SDK is provided in the examples directory.
 
