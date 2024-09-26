@@ -7,7 +7,7 @@ with open(os.path.join(os.path.dirname(__file__), 'README.md'), encoding='utf-8'
 
 setup(
     name='kraken-websocket-sdk', 
-    version='0.1.3',
+    version='0.1.4',
     author='Mustafa "Moes" Mufti',
     author_email='moes.mufti@icloud.com',
     description='A Python package for interacting with Kraken WebSocket API',
