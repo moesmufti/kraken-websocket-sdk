@@ -1,7 +1,7 @@
 <h1 align="center">Kraken WebSocket SDK - Lightweight and minimal SDK for interacting with the Kraken Cryptocurrency Exchange Websocket API</h1>
 
 **Disclaimer:**  
-*This SDK is not affiliated with Kraken in any way and does not provide financial services or products. Trading involves significant risk and is speculative. Always do your own research and consult with a financial advisor before making any trading decisions.*
+*NOT ACTIVELY MAINTAINED. This SDK is not affiliated with Kraken in any way and does not provide financial services or products. Trading involves significant risk and is speculative. Always do your own research and consult with a financial advisor before making any trading decisions.*
 
 A Python package for interacting with Kraken's WebSocket API, enabling real-time data streaming for instruments and ticker channels with robust features for reliability and ease of use.
 
